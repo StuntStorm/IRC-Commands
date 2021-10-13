@@ -26,7 +26,7 @@ Now you have successfully Logged on as StuntStorm!
 
 ------------------------------------------------- 
   
-### AFinally, Join any Channel server using 
+### Finally, Join any Channel server using 
 /join #DesktopMasters
 OR
 /join #amfoss
