@@ -41,7 +41,9 @@ Voila You are successfully joined Desktopmasters/amFOSS IRC!
 join #libera-cloak and then type !cloakme
  
 ------------------------------------------------- 
- 
+### FOLLOW THESE RULES WHILE USING IRC
+
+https://github.com/fizerkhan/irc-etiquette
   
 Screenshot : 
 <img src="https://i.imgur.com/rn0SKBp.png"> 
