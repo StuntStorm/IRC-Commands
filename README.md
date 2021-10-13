@@ -1,24 +1,24 @@
 ### IRC Username : StuntStorm
 
-## How to Connect to amFOSS IRC!
+## How to Connect to IRC!
 
 Connected using /connect IRC.Libera.Chat as the Freenode is dead
 
-And then set a nick name using /nick StuntStorm
+And then set a nick name using /nick (Username)
 ------------------------------------------------- 
 ### Registered to the account by using
 
-/msg NickServ REGISTER <Password> <Email>
+/msg NickServ REGISTER (Password) (Email)
  
 ------------------------------------------------- 
 ### Verifying the Email using
 
-/msg NickServ REGISTER VERIFY StuntStorm <Captcha>
+/msg NickServ REGISTER VERIFY StuntStorm (Captcha)
 
 ------------------------------------------------- 
 ### Login using the Account
 
-/msg NickServ IDENTIFY StuntStorm <password>
+/msg NickServ IDENTIFY StuntStorm (password)
 
   
   
@@ -26,12 +26,14 @@ Now you have successfully Logged on as StuntStorm!
 
 ------------------------------------------------- 
   
-### AFinally, Join the amFOSS server using 
+### AFinally, Join any Channel server using 
+/join #DesktopMasters
+OR
 /join #amfoss
 
   
   
-Voila You are successfully joined amFOSS IRC!
+Voila You are successfully joined Desktopmasters/amFOSS IRC!
 
 ------------------------------------------------- 
 ### Want to Cloak (mask) your Ip? 
@@ -47,4 +49,3 @@ Screenshot :
   
   
   
-  Special Thanks to TheFatherMind & #DesktopMasters for noting that Freenode is not valid anymore
